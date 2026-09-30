@@ -68,7 +68,7 @@ export const projectsData = [
     description: "A smart financial tracking tool built with commerce accounting principles to record daily debits, credits, and ledger balances smoothly.",
     tags: ["React", "Tailwind CSS", "Commerce", "Financial Logic"],
     githubUrl: "https://github.com/siddeequliyil7-svg/protfolio",
-    liveUrl: "https://siddeeq-uliyil.vercel.app",
+    liveUrl: "https://siddeequliyil.vercel.app",
     category: "Commerce & Tech",
   },
   {
@@ -76,7 +76,7 @@ export const projectsData = [
     description: "An award-winning dark aesthetic personal portfolio featuring glassmorphism, responsive cards, and instant Vercel continuous deployment.",
     tags: ["React.js", "Tailwind CSS", "Vercel", "UI/UX"],
     githubUrl: "https://github.com/siddeequliyil7-svg/protfolio",
-    liveUrl: "https://siddeeq-uliyil.vercel.app",
+    liveUrl: "https://siddeequliyil.vercel.app",
     category: "Web Development",
   },
   {

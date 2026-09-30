@@ -5,7 +5,7 @@ Official personal portfolio website for **Aboobaker Siddeeq Uliyil** — Plus On
 ---
 
 ## 🌐 Live Website Links
-- **Vercel Live URL:** [https://siddeeq-uliyil.vercel.app](https://siddeeq-uliyil.vercel.app) (or [https://protfolio-three-khaki.vercel.app](https://protfolio-three-khaki.vercel.app))
+- **Vercel Live URL:** [https://siddeequliyil.vercel.app](https://siddeequliyil.vercel.app)
 - **GitHub Repository:** [https://github.com/siddeequliyil7-svg/protfolio](https://github.com/siddeequliyil7-svg/protfolio)
 
 ---
